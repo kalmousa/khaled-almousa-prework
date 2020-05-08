@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <div>
+    
+  <header1>
+    <div>
+      <p style="text-align:left"> FDM </p>
+    </div>
+  </header1>
+
+ <header2>
+   <div>
+     <p style="text-align:center">BRINGING FANCY IDEAS TO LIFE</p>
+   </div>
+ </header2>
+    
+<div>   
+ <h1 style="text-align:center">DIGITAL HEAVEN </h2>
+</div> 
+
+<div>
+  <a href="https://www.google.com" style="text-align:center">get a free quote </a>
+</div>
+
+</body>  
+</div>
+    
+</html>
