@@ -1,1 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-us">
 
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Assessment</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="index.html" media="screen"/>
+
+<div id="header", align="center">Nav</div>
+
+<div id="container">
+    <div id="first">Left</div>
+    <div id="second">Right</div>
+</div>
+  
+  <div id="footer", align="center">Footer</div>
+
+
+header, .full-width {
+    width: 100%;
+    background: #ccc;
+  }
+  .wrap {
+    width: 80%;
+    max-width: 24em;
+    margin: 0 auto;
+    padding: 0.25em 0.625em;
+  }
+
+  #header {
+    width: 100%;
+    background-color: grey;
+    height: 20px;
+}
+
+#container {
+    width: 100%;
+    background-color: white;
+    margin: auto;
+    height: 300px
+}
+
+#first {
+    width: 50%;
+    float: left;
+    height: 140px;
+    background-color: blue;
+    text-align: center;
+    line-height: 140px;
+}
+
+#second {
+    width: 25%;
+    float: right;
+    height: 140px;
+    background-color: red;
+    text-align: center;
+    line-height: 140px;
+}
+
+#footer {
+  width: 100%;
+  background-color: green;
+  height: 20px;
+}
